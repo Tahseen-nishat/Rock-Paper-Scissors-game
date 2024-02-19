@@ -8,7 +8,7 @@ This project is a simple web-based implementation of the popular Rock-Paper-Scis
 
 ## How to Play
 
-1. Clone the repository: `git clone https://github.com/Tahseen-nishat/rock-paper-scissors.git`
+1. Clone the repository: `[git clone https://github.com/Tahseen-nishat/rock-paper-scissors.git](https://tahseen-nishat.github.io/Rock-Paper-Scissors-game/)`
 2. Open `index.html` in your preferred web browser.
 3. Click on your chosen move (Rock, Paper, or Scissors).
 4. The computer will randomly select its move.
