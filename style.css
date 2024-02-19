@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    background-image: url("https://images.homedepot-static.com/productImages/bce85c1a-508a-4622-b54b-db1a5ca940af/svn/york-wallcoverings-wallpaper-ds7813-64_1000.jpg");
+}
+
+.heading{
+    margin:5rem;
+    color: beige;
+    font-size: 2rem;
+}
+
+.choice{
+    height: 70px;
+    width: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:2rem;
+}
+img{
+    height: 165px;
+    width: 165px;
+
+}
+.choices{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7rem;
+    margin: 100px;
+}
+
+.choice:hover img{
+    cursor: pointer;
+    height: 250px;
+    width: 250px;
+}
+
+.score-board{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:5rem;
+    font-size: larger;
+    color: beige;
+    font-weight: bolder;
+}
+#user-score, #comp-score{
+    font-size: 50px;
+}
+
+.msg-container{
+    margin-top: 5rem;
+    padding: 10px 400px;
+
+}
+#msg{
+    background-color: beige;
+    font-size: 3rem;
+    padding: 1rem;
+    border-radius: 1rem;
+}
